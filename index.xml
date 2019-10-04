@@ -11,14 +11,5 @@
 	<atom:link href="https://atlsynth.club/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>About The Atlanta Synthesizer Club</title>
-      <link>https://atlsynth.club/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atlsynth.club/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend augue quis mollis consequat. Donec placerat risus ac massa ultricies rhoncus. Ut faucibus vehicula lectus sit amet gravida. Quisque facilisis pulvinar libero at elementum. Pellentesque lectus magna, venenatis ut pellentesque eget, blandit in orci. Pellentesque nec tortor molestie, finibus elit id, viverra turpis. Curabitur non varius sapien. Duis non molestie dui. Nam quis dolor diam. Donec in elit in est tincidunt dignissim.</description>
-    </item>
-    
   </channel>
 </rss>
